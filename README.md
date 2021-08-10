@@ -6,3 +6,6 @@
 
 
 mnist 파일 깃허브 주소: https://github.com/oreilly-japan/deep-learning-from-scratch/blob/master/dataset/mnist.py
+
+
+https://wikidocs.net/21670
