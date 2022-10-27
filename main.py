@@ -12,6 +12,7 @@ def result():
       result['Name'] = request.form.get('Name')
 
       # 학번
+      result['StudentNumber'] = request.form.get('StudentNumber')
       # 성별
       result['Gender'] = request.form.get('Gender')
       # 학과
