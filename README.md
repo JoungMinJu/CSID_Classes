@@ -16,3 +16,13 @@
 
 ### ✔ R_Data
 : "R프로그래밍 수업" 관련 레포지토리
+
+
+
+### ✔ ossprac_hw
+: "오픈소스SW실습" 관련 레포지토리 - 개인 과제
+
+
+### ✔ ossprac_team_proj
+: "오픈소스SW실습" 관련 레포지토리 - 팀 과제 (Flask, Git 협업, Docker, Docker-compose, Jenkins ..) <br>
+: [Remote 레포](https://github.com/CSID-DGU/2022-2-OSSPrac-GitIt-5)
